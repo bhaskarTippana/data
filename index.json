@@ -6,21 +6,25 @@
   {
     "username": "abc",
     "password": "abc123",
-    "email": "abc@gmail.com"
+    "email": "abc@gmail.com",
+    "phno": "7876543211"
   },
   {
     "username": "pqr",
     "password": "pqr123",
-  "email": "pqr@gmail.com"
+  "email": "pqr@gmail.com",
+        "phno": "6576543210"
   },
    {
     "username": "xyz",
     "password": "xyz123",
-  "email": "xyz@gmail.com"
+  "email": "xyz@gmail.com",
+         "phno": "9977543210"
   },
   {
        "username": "uvw",
     "password": "uvw123",
-  "email": "uvw@gmail.com" 
+  "email": "uvw@gmail.com",
+        "phno": "9976543230"
   }
 ]
